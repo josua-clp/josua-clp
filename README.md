@@ -1,4 +1,4 @@
-![Logo]
+![Logo](https://github.com/josua-clp/josua-clp/blob/main/josua-clp.gif)
 
 
 # 💫 About Me:
