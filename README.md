@@ -1,3 +1,6 @@
+![Logo]
+
+
 # 💫 About Me:
 🏫 Currently at HTBLA Kaindorf<br>🧑🏻‍🦱 16 years of age <br>💻 Programming in C and Java <br>🥊Boxing is my passion  <br>
 
