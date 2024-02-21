@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🏫 Currently at HTBLA Kaindorf<br>🧑🏻‍🦱 16 years of age<br>💻 Programming in C and Java<br>🥊Boxing is my passion<br><br>
+🏫 Currently at HTBLA Kaindorf<br>🧑🏻‍🦱 Frontend developer<br>💻 Programming in C, Java and JavaScript<br>🥊 Boxing is my passion<br><br>
 
 # 💾 Projects:
 - [Redflag: ](https://github.com/josua-clp/Redflag-scanner)A powerful tool that helps you detect malicious websites and protects your online security.
